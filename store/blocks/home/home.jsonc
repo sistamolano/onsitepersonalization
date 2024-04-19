@@ -53,10 +53,10 @@
       "blockClass": "carousel"
     }
   },
-
+//Angela
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Personalization tests",
+      "text": "## Personalization tests - for everton",
       "blockClass": "shelfTitle"
     }
   },
